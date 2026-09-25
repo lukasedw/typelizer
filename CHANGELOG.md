@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning].
 
 ## [Unreleased]
 
+### Fixed
+
+- An Alba association or nested attribute named after a model column no longer takes the column's type (or enum). ([@lukasedw])
+
 ## [0.13.1] - 2026-05-18
 
 ### Added
@@ -506,6 +510,7 @@ and this project adheres to [Semantic Versioning].
 [@jonmarkgo]: https://github.com/jonmarkgo
 [@julik]: https://github.com/julik
 [@kristinemcbride]: https://github.com/kristinemcbride
+[@lukasedw]: https://github.com/lukasedw
 [@nkriege]: https://github.com/nkriege
 [@NOX73]: https://github.com/NOX73
 [@okuramasafumi]: https://github.com/okuramasafumi
